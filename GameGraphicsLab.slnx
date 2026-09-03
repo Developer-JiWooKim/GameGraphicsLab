@@ -5,6 +5,7 @@
   <Project Path="Unity.RenderPipelines.GPUDriven.Runtime.csproj" />
   <Project Path="Unity.PlasticSCM.Editor.csproj" />
   <Project Path="Unity.ShaderGraph.Editor.csproj" />
+  <Project Path="Unity.ProBuilder.csproj" />
   <Project Path="Unity.Entities.Graphics.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.csproj" />
   <Project Path="Unity.ScriptableBuildPipeline.Editor.csproj" />
@@ -14,6 +15,7 @@
   <Project Path="Unity.RenderPipelines.Universal.2D.Runtime.csproj" />
   <Project Path="UnityEngine.UI.csproj" />
   <Project Path="Unity.Collections.csproj" />
+  <Project Path="Unity.ProBuilder.Poly2Tri.csproj" />
   <Project Path="Unity.Pipeline.csproj" />
   <Project Path="Unity.Entities.UI.Editor.csproj" />
   <Project Path="Unity.VisualScripting.Core.Editor.csproj" />
@@ -22,6 +24,7 @@
   <Project Path="UnityEngine.TestRunner.csproj" />
   <Project Path="Unity.Burst.csproj" />
   <Project Path="Unity.VisualScripting.Flow.Editor.csproj" />
+  <Project Path="Unity.ProBuilder.Csg.csproj" />
   <Project Path="Unity.Pipeline.Editor.csproj" />
   <Project Path="Unity.VisualStudio.Editor.csproj" />
   <Project Path="Unity.Entities.csproj" />
@@ -29,6 +32,7 @@
   <Project Path="Unity.Entities.Editor.csproj" />
   <Project Path="Unity.Searcher.Editor.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.002.csproj" />
+  <Project Path="Unity.ProBuilder.Editor.csproj" />
   <Project Path="UnityEditor.TestRunner.csproj" />
   <Project Path="Unity.VisualScripting.Core.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Runtime.csproj" />
@@ -58,6 +62,8 @@
   <Project Path="Unity.PlasticSCM.Editor.Assistant.csproj" />
   <Project Path="Unity.AI.Navigation.Editor.csproj" />
   <Project Path="Unity.Multiplayer.Center.Common.csproj" />
+  <Project Path="Unity.ProBuilder.KdTree.csproj" />
+  <Project Path="Unity.ProBuilder.AddOns.Editor.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.Shared.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Editor.Shared.csproj" />
   <Project Path="Unity.AI.Navigation.csproj" />
@@ -69,7 +75,9 @@
   <Project Path="Unity.Entities.UI.csproj" />
   <Project Path="Unity.PathTracing.Editor.csproj" />
   <Project Path="Unity.ScriptableBuildPipeline.csproj" />
+  <Project Path="Unity.ProBuilder.AssetIdRemapUtility.csproj" />
   <Project Path="Unity.Transforms.csproj" />
+  <Project Path="Unity.Settings.Editor.csproj" />
   <Project Path="Unity.Entities.Build.csproj" />
   <Project Path="Unity.InputSystem.TestFramework.csproj" />
   <Project Path="Unity.ShaderGraph.Utilities.csproj" />
@@ -91,6 +99,7 @@
   <Project Path="Unity.InputSystem.DocCodeSamples.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Shaders.csproj" />
   <Project Path="Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj" />
+  <Project Path="Unity.ProBuilder.Stl.csproj" />
   <Project Path="Unity.Deformations.csproj" />
   <Project Path="Unity.VisualScripting.DocCodeExamples.csproj" />
   <Project Path="Unity.Mathematics.Extensions.Hybrid.csproj" />
@@ -104,14 +113,17 @@
   <Project Path="Unity.Timeline.Player.csproj" />
   <Project Path="Unity.InputSystem.Player.csproj" />
   <Project Path="Unity.RenderPipelines.GPUDriven.Runtime.Player.csproj" />
+  <Project Path="Unity.ProBuilder.Player.csproj" />
   <Project Path="Unity.Entities.Graphics.Player.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.Player.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.2D.Runtime.Player.csproj" />
   <Project Path="UnityEngine.UI.Player.csproj" />
   <Project Path="Unity.Collections.Player.csproj" />
+  <Project Path="Unity.ProBuilder.Poly2Tri.Player.csproj" />
   <Project Path="Unity.Pipeline.Player.csproj" />
   <Project Path="UnityEngine.TestRunner.Player.csproj" />
   <Project Path="Unity.Burst.Player.csproj" />
+  <Project Path="Unity.ProBuilder.Csg.Player.csproj" />
   <Project Path="Unity.Entities.Player.csproj" />
   <Project Path="Unity.Scenes.Player.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.002.Player.csproj" />
@@ -127,6 +139,7 @@
   <Project Path="Unity.Serialization.Player.csproj" />
   <Project Path="Unity.VisualScripting.State.Player.csproj" />
   <Project Path="Unity.Multiplayer.Center.Common.Player.csproj" />
+  <Project Path="Unity.ProBuilder.KdTree.Player.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.Shared.Player.csproj" />
   <Project Path="Unity.AI.Navigation.Player.csproj" />
   <Project Path="Unity.Entities.Hybrid.HybridComponents.Player.csproj" />
@@ -144,6 +157,7 @@
   <Project Path="Unity.Transforms.Hybrid.Player.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.004.Player.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Shaders.Player.csproj" />
+  <Project Path="Unity.ProBuilder.Stl.Player.csproj" />
   <Project Path="Unity.Deformations.Player.csproj" />
   <Project Path="Unity.VisualScripting.DocCodeExamples.Player.csproj" />
   <Project Path="Unity.Mathematics.Extensions.Hybrid.Player.csproj" />
