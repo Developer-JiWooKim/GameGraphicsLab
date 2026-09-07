@@ -135,7 +135,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &415749518
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Assets.GameGraphics.Scripts.Entities.MobiusRibbonPractice
   mesh: {fileID: 0}
-  material: {fileID: 0}
+  material: {fileID: 2100000, guid: 7d51f64530bdea44cabdc03a4c834a83, type: 2}
   colorPerEntity: 1
   segments: 500
   rows: 20
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Assets.GameGraphics.Scripts.Entities.BulletShooterPractice
   bulletMesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
-  bulletMaterial: {fileID: 2100000, guid: 4ebac08dea760914791235172a78d05b, type: 2}
+  bulletMaterial: {fileID: 2100000, guid: 7d51f64530bdea44cabdc03a4c834a83, type: 2}
   bulletsPerSecond: 500
   bulletSpeed: 25
   bulletLifetime: 4
@@ -245,7 +245,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &523146031
 Transform:
   m_ObjectHideFlags: 0
