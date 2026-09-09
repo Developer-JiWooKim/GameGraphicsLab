@@ -444,12 +444,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ClickEffectSpawner
   _targetCamera: {fileID: 98532900}
-  _effectPrefab: {fileID: 6149060313728155252, guid: 42c591c8a307e7b4889bc352e39a8f34, type: 3}
+  _effectPrefab: {fileID: 3029551903888641204, guid: 42c591c8a307e7b4889bc352e39a8f34, type: 3}
   _groundMask:
     serializedVersion: 2
     m_Bits: 256
-  _initSize: 5
-  _maxSize: 20
+  _initSize: 10
+  _maxSize: 15
 --- !u!1 &134800274
 GameObject:
   m_ObjectHideFlags: 0
