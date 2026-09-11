@@ -12,8 +12,8 @@ namespace Assets.GameGraphics.Scripts.Day12
         [SerializeField] private Light _flashLight;
 
         [Header("Storm")]
-        [SerializeField] private Vector2 _interval = new Vector2(0.1f, 0.5f);
-        [SerializeField] private Vector2Int _boltsPerStrike = new Vector2Int(3, 8);
+        [SerializeField] private Vector2 _interval = new(0.1f, 0.5f);
+        [SerializeField] private Vector2Int _boltsPerStrike = new(3, 8);
         [SerializeField] private float _areaRadius = 60f;
         [SerializeField] private float _height = 30f;
         [SerializeField] private int _stripCapacity = 64;
@@ -50,8 +50,6 @@ namespace Assets.GameGraphics.Scripts.Day12
             {
 
             }
-
-
         }
 
         public void Strike()
@@ -70,7 +68,6 @@ namespace Assets.GameGraphics.Scripts.Day12
             _stripOffset = (_stripOffset + bolts) % _stripCapacity;
 
             Flash(bolts);
-
         }
 
         private async void Flash(int bolts)

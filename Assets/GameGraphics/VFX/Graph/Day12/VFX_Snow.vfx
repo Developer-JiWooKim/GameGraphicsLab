@@ -19,7 +19,7 @@ MonoBehaviour:
       x: 852
       y: -1433
       width: 474
-      height: 2559
+      height: 2666
     contents:
     - model: {fileID: 8926484042661614608}
       id: 0
@@ -40,7 +40,7 @@ MonoBehaviour:
     x: 501
     y: -1433
     width: 825
-    height: 2559
+    height: 2666
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -546,7 +546,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614685}
   - {fileID: 8926484042661614830}
   - {fileID: 8926484042661614722}
-  m_UIPosition: {x: 877, y: 518}
+  m_UIPosition: {x: 877, y: 625}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -762,7 +762,7 @@ MonoBehaviour:
     m_Value:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"time":0.0},{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.20000000298023224},{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.800000011920929},{"color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"time":1.0}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":1.0,"time":0.19412527978420258},{"alpha":1.0,"time":0.800000011920929},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":8.0,"g":8.0,"b":8.0,"a":1.0},"time":0.0},{"color":{"r":8.0,"g":8.0,"b":8.0,"a":1.0},"time":1.0}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":1.0,"time":0.19412527978420258},{"alpha":1.0,"time":0.800000011920929},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
     m_Space: -1
   m_Property:
     name: Color
